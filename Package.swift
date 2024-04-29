@@ -24,9 +24,9 @@ let package = Package(
             name: "DaouEnfaxImageEditor",
             dependencies: [
                 "DaouGeometry2D",
-//                "RxSwift",
-//                "RxGesture",
-//                "SnapKit"
+                "RxSwift",
+                "RxGesture",
+                "SnapKit"
             ]
         ),
         .testTarget(

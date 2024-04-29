@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DaouMobile/DaouAngle",
       "state" : {
-        "branch" : "main",
-        "revision" : "456cda161a53d246614839dd846713903e99bcab"
+        "revision" : "456cda161a53d246614839dd846713903e99bcab",
+        "version" : "1.0.0"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DaouMobile/DaouGeometry2D",
       "state" : {
-        "branch" : "main",
-        "revision" : "91efea7225ea5ac0e8f8aad0d45a2927d2465e3f"
+        "revision" : "a9e899a8b8fc209551f57a2a706177e4bc5287b8",
+        "version" : "1.0.0"
       }
     }
   ],
