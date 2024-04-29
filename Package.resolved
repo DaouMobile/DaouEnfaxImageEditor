@@ -17,33 +17,6 @@
         "revision" : "a9e899a8b8fc209551f57a2a706177e4bc5287b8",
         "version" : "1.0.0"
       }
-    },
-    {
-      "identity" : "rxgesture",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/RxSwiftCommunity/RxGesture",
-      "state" : {
-        "revision" : "1b137c576b4aaaab949235752278956697c9e4a0",
-        "version" : "4.0.4"
-      }
-    },
-    {
-      "identity" : "rxswift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/ReactiveX/RxSwift",
-      "state" : {
-        "revision" : "7c17a6ccca06b5c107cfa4284e634562ddaf5951",
-        "version" : "6.2.0"
-      }
-    },
-    {
-      "identity" : "snapkit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SnapKit/SnapKit",
-      "state" : {
-        "revision" : "d458564516e5676af9c70b4f4b2a9178294f1bc6",
-        "version" : "5.0.1"
-      }
     }
   ],
   "version" : 2
