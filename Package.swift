@@ -14,8 +14,8 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/DaouMobile/DaouGeometry2D", exact: "1.0.0"),
         .package(url: "https://github.com/ReactiveX/RxSwift", .upToNextMinor(from: "6.2.0")),
-        .package(url: "https://github.com/RxSwiftCommunity/RxGesture", .upToNextMinor(from: "4.0.1")),
-        .package(url: "https://github.com/SnapKit/SnapKit", .upToNextMinor(from: "5.0.0"))
+        .package(url: "https://github.com/RxSwiftCommunity/RxGesture", exact: "4.0.1"),
+        .package(url: "https://github.com/SnapKit/SnapKit", exact: "5.0.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
