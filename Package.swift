@@ -23,10 +23,10 @@ let package = Package(
         .target(
             name: "DaouEnfaxImageEditor",
             dependencies: [
-                "DaouGeometry2D"
-//                "RxSwift",
-//                "RxGesture",
-//                "SnapKit"
+                "DaouGeometry2D",
+                "RxSwift",
+                "RxGesture",
+                "SnapKit"
             ]
         ),
         .testTarget(
