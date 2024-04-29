@@ -12,7 +12,7 @@ let package = Package(
             targets: ["DaouEnfaxImageEditor"])
     ],
     dependencies: [
-        .package(url: "https://github.com/DaouMobile/DaouGeometry2D", branch: "main")
+        .package(url: "https://github.com/DaouMobile/DaouGeometry2D", exact: "1.0.0")
 //        .package(url: "https://github.com/ReactiveX/RxSwift", exact: "6.2.0"),
 //        .package(url: "https://github.com/RxSwiftCommunity/RxGesture", exact: "4.0.4"),
 //        .package(url: "https://github.com/SnapKit/SnapKit", exact: "5.0.1")
@@ -24,9 +24,9 @@ let package = Package(
             name: "DaouEnfaxImageEditor",
             dependencies: [
                 "DaouGeometry2D",
-                "RxSwift",
-                "RxGesture",
-                "SnapKit"
+//                "RxSwift",
+//                "RxGesture",
+//                "SnapKit"
             ]
         ),
         .testTarget(
