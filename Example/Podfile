@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DaouEnfaxImageEditor_Tests' do
+  pod 'DaouEnfaxImageEditor', :path => '../'
+  
+  
+end
