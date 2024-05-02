@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.resources = 'Sources/**/Resource/*'
   
   s.frameworks = 'UIKit', 'Vision'
-  s.dependency 'DaouGeometry2D'
+  s.dependency 'DaouGeometry2D', '1.0.2'
   s.dependency 'RxSwift'
   s.dependency 'RxRelay'
   s.dependency 'RxCocoa'
