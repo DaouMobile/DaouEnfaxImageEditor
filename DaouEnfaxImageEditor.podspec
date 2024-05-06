@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'DaouEnfaxImageEditor'
-  s.version          = '1.0.9'
+  s.version          = '1.0.10'
   s.summary          = 'DaouEnfaxImageEditor'
 
   s.homepage         = 'https://github.com/DaouMobile/DaouEnfaxImageEditor'
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.resources = 'Sources/**/Resource/*'
   
   s.frameworks = 'UIKit', 'Vision'
-  s.dependency 'DaouGeometry2D', '1.0.2'
+  s.dependency 'DaouGeometry2D', '1.0.3'
   s.dependency 'RxSwift'
   s.dependency 'RxRelay'
   s.dependency 'RxCocoa'
