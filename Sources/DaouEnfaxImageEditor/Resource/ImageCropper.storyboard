@@ -13,7 +13,7 @@
         <!--Image Cropper View Controller-->
         <scene sceneID="jzc-DS-j2i">
             <objects>
-                <viewController id="aiN-w1-8mL" customClass="ImageCropperViewController" customModule="EnfaxImageEditor" sceneMemberID="viewController">
+                <viewController id="aiN-w1-8mL" customClass="ImageCropperViewController" customModule="DaouEnfaxImageEditor" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="3L1-Z8-t0Z">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

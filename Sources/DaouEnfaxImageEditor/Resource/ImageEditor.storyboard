@@ -18,7 +18,7 @@
         <!--Image Editor View Controller-->
         <scene sceneID="Nfk-8z-hh7">
             <objects>
-                <viewController id="GRP-qG-rFP" customClass="ImageEditorViewController" customModule="EnfaxImageEditor" sceneMemberID="viewController">
+                <viewController id="GRP-qG-rFP" customClass="ImageEditorViewController" customModule="DaouEnfaxImageEditor" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="hoK-Ts-AqY">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -232,7 +232,7 @@
         <!--Image Editor Page View Controller-->
         <scene sceneID="TT0-Ha-akY">
             <objects>
-                <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="scroll" navigationOrientation="horizontal" spineLocation="none" id="daz-kn-k1k" customClass="ImageEditorPageViewController" customModule="EnfaxImageEditor" sceneMemberID="viewController"/>
+                <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="scroll" navigationOrientation="horizontal" spineLocation="none" id="daz-kn-k1k" customClass="ImageEditorPageViewController" customModule="DaouEnfaxImageEditor" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wMN-z0-nve" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="668" y="-74"/>
@@ -240,7 +240,7 @@
         <!--Image Editor Content View Controller-->
         <scene sceneID="sjE-PA-2Gk">
             <objects>
-                <viewController storyboardIdentifier="ImageEditorContentViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Zk9-je-IqW" customClass="ImageEditorContentViewController" customModule="EnfaxImageEditor" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ImageEditorContentViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Zk9-je-IqW" customClass="ImageEditorContentViewController" customModule="DaouEnfaxImageEditor" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="qqc-mq-gY7">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
