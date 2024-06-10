@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'DaouEnfaxImageEditor'
-  s.version          = '1.0.10'
+  s.version          = '1.0.11'
   s.summary          = 'DaouEnfaxImageEditor'
 
   s.homepage         = 'https://github.com/DaouMobile/DaouEnfaxImageEditor'
